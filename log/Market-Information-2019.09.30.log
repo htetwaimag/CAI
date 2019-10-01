@@ -1,0 +1,693 @@
+21:08:15.281 INFO  new file found!YSE301_20190710093055.data.zip 
+21:08:15.284 INFO  new file found!YSE301_20190710093055.data.zip 
+21:08:15.295 INFO  new file found!YSE301_20190710093055.data.zip 
+21:08:15.318 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:08:15.319 INFO  Extracting done! 
+21:08:15.326 INFO  Some files are extracted: 
+21:08:15.334 INFO  Some files are extracted: 
+21:09:38.652 INFO  new file found!YSE301_20190710093055.data.zip 
+21:09:38.655 INFO  new file found!YSE301_20190710093055.data.zip 
+21:09:38.656 INFO  new file found!YSE301_20190710093055.data.zip 
+21:09:38.719 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:09:38.720 INFO  Some files are extracted: 
+21:09:38.720 INFO  Extracting done! 
+21:09:38.728 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:09:38.729 INFO  Extracting done! 
+21:09:38.732 INFO  Some files are extracted: 
+21:10:14.841 INFO  new file found!YSE301_20190710093055.data.zip 
+21:10:14.882 INFO  Some files are extracted: 
+21:10:14.883 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:10:14.883 INFO  Some files are extracted: 
+21:10:14.889 INFO  Extracting done! 
+21:10:16.653 INFO  new file found!YSE301_20190710093055.data.zip 
+21:10:16.676 INFO  Some files are extracted: 
+21:10:16.678 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:10:16.678 INFO  Some files are extracted: 
+21:10:16.681 INFO  Extracting done! 
+21:10:52.813 INFO  new file found!YSE301_20190710093055.data.zip 
+21:10:52.815 INFO  new file found!YSE301_20190710093055.data.zip 
+21:10:52.816 INFO  new file found!YSE301_20190710093055.data.zip 
+21:10:52.906 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:10:52.907 INFO  Extracting done! 
+21:10:52.915 INFO  Some files are extracted: 
+21:10:52.929 INFO  Some files are extracted: 
+21:11:06.036 INFO  new file found!YSE300_20190710093033.data.zip 
+21:11:06.038 INFO  new file found!YSE300_20190710093033.data.zip 
+21:11:06.040 INFO  new file found!YSE300_20190710093033.data.zip 
+21:11:06.069 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:11:06.071 INFO  Extracting done! 
+21:11:06.077 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:11:06.082 INFO  Extracting done! 
+21:11:06.087 INFO  Some files are extracted: 
+21:11:19.306 INFO  new file found!YSE300_20190710093033.data.zip 
+21:11:19.308 INFO  new file found!YSE301_20190710093055.data.zip 
+21:11:19.334 INFO  Some files are extracted: 
+21:11:19.336 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:11:19.336 INFO  Some files are extracted: 
+21:11:19.340 INFO  Extracting done! 
+21:11:19.345 INFO  Some files are extracted: 
+21:11:19.423 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:11:19.426 INFO  Extracting done! 
+21:12:39.422 INFO  new file found!YSE300_20190710093033.data.zip 
+21:12:39.436 INFO  new file found!YSE300_20190710093033.data.zip 
+21:12:39.437 INFO  new file found!YSE300_20190710093033.data.zip 
+21:12:39.466 INFO  Extracting done! 
+21:12:39.474 INFO  Extracting done! 
+21:12:39.481 ERROR Extract failed! 
+21:12:47.715 INFO  new file found!YSE301_20190710093055.data.zip 
+21:12:47.716 INFO  new file found!YSE301_20190710093055.data.zip 
+21:12:47.717 INFO  new file found!YSE301_20190710093055.data.zip 
+21:12:47.749 INFO  Extracting done! 
+21:12:47.756 INFO  Extracting done! 
+21:12:47.764 ERROR Extract failed! 
+21:12:58.696 INFO  new file found!YSE302_20190710093066.data.zip 
+21:12:58.697 INFO  new file found!YSE302_20190710093066.data.zip 
+21:12:58.699 INFO  new file found!YSE302_20190710093066.data.zip 
+21:12:58.736 INFO  Extracting done! 
+21:12:58.744 ERROR Extract failed! 
+21:12:58.752 ERROR Extract failed! 
+21:13:03.361 INFO  new file found!YSE300_20190710093033.data.zip 
+21:13:03.363 INFO  new file found!YSE301_20190710093055.data.zip 
+21:13:03.364 INFO  new file found!YSE302_20190710093066.data.zip 
+21:13:03.405 INFO  Extracting done! 
+21:13:03.416 INFO  Extracting done! 
+21:13:03.425 INFO  Extracting done! 
+21:14:09.250 INFO  new file found!YSE300_20190710093033.data.zip 
+21:14:09.252 INFO  new file found!YSE300_20190710093033.data.zip 
+21:14:09.253 INFO  new file found!YSE300_20190710093033.data.zip 
+21:14:09.253 INFO  new file found!YSE300_20190710093033.data.zip 
+21:14:09.299 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:14:09.301 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:14:09.301 INFO  Some files are extracted: 
+21:14:09.301 INFO  Extracting done! 
+21:14:09.303 ERROR Extract failed! 
+21:14:09.304 INFO  Extracting done! 
+21:14:09.308 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:14:09.310 INFO  Extracting done! 
+21:14:09.312 INFO  Some files are extracted: 
+21:14:09.316 ERROR Extract failed! 
+21:15:35.483 INFO  new file found!YSE300_20190710093033.data.zip 
+21:15:35.485 INFO  new file found!YSE300_20190710093033.data.zip 
+21:15:35.511 INFO  Some files are extracted: 
+21:15:35.513 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:15:35.513 INFO  Some files are extracted: 
+21:15:35.518 INFO  Extracting done! 
+21:15:35.522 INFO  Some files are extracted: 
+21:15:35.524 ERROR Extract failed! 
+21:15:53.575 INFO  new file found!YSE301_20190710093055.data.zip 
+21:15:53.576 INFO  new file found!YSE301_20190710093055.data.zip 
+21:15:53.576 INFO  new file found!YSE301_20190710093055.data.zip 
+21:15:53.616 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:15:53.617 INFO  Extracting done! 
+21:15:53.620 INFO  Some files are extracted: 
+21:15:53.623 ERROR Extract failed! 
+21:15:53.631 INFO  Some files are extracted: 
+21:15:53.636 ERROR Extract failed! 
+21:18:41.842 INFO  new file found!YSE300_20190710093033.data.zip 
+21:18:41.845 INFO  new file found!YSE300_20190710093033.data.zip 
+21:18:41.846 INFO  new file found!YSE300_20190710093033.data.zip 
+21:18:41.924 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:18:41.925 INFO  Extracting done! 
+21:18:41.929 INFO  Some files are extracted: 
+21:18:41.932 ERROR Extract failed! 
+21:18:41.934 INFO  Some files are extracted: 
+21:18:41.938 ERROR Extract failed! 
+21:19:39.460 INFO  new file found!YSE300_20190710093033.data.zip 
+21:19:39.462 INFO  new file found!YSE300_20190710093033.data.zip 
+21:19:39.477 INFO  new file found!YSE300_20190710093033.data.zip 
+21:19:39.508 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:19:39.509 INFO  Extracting done! 
+21:19:39.512 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:19:39.517 INFO  Extracting done! 
+21:19:39.522 INFO  Some files are extracted: 
+21:19:39.526 ERROR Extract failed! 
+21:19:46.348 INFO  new file found!YSE301_20190710093055.data.zip 
+21:19:46.349 INFO  new file found!YSE301_20190710093055.data.zip 
+21:19:46.350 INFO  new file found!YSE301_20190710093055.data.zip 
+21:19:46.386 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:19:46.387 INFO  Extracting done! 
+21:19:46.393 INFO  Some files are extracted: 
+21:19:46.397 ERROR Extract failed! 
+21:19:46.401 INFO  Some files are extracted: 
+21:19:46.404 ERROR Extract failed! 
+21:20:07.875 INFO  new file found!YSE301_20190710093055.data.zip 
+21:20:07.876 INFO  new file found!YSE301_20190710093055.data.zip 
+21:20:07.877 INFO  new file found!YSE301_20190710093055.data.zip 
+21:20:07.909 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:20:07.909 INFO  Extracting done! 
+21:20:07.912 INFO  Some files are extracted: 
+21:20:07.916 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:20:07.917 INFO  Extracting done! 
+21:20:07.923 INFO  Some files are extracted: 
+21:20:07.928 ERROR Extract failed! 
+21:20:14.225 INFO  new file found!YSE302_20190710093066.data.zip 
+21:20:14.225 INFO  new file found!YSE302_20190710093066.data.zip 
+21:20:14.226 INFO  new file found!YSE302_20190710093066.data.zip 
+21:20:14.254 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:20:14.254 INFO  Extracting done! 
+21:20:14.257 INFO  Some files are extracted: 
+21:20:14.260 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:20:14.262 INFO  Extracting done! 
+21:20:14.265 INFO  Some files are extracted: 
+21:20:14.268 ERROR Extract failed! 
+21:24:27.023 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.025 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.025 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.025 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.026 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.034 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.035 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.035 INFO  Extracting done! 
+21:24:27.041 INFO  Extracting done! 
+21:24:27.042 INFO  Extracting done! 
+21:24:27.044 INFO  Extracting done! 
+21:24:27.046 INFO  Extracting done! 
+21:24:27.047 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.055 INFO  Extracting done! 
+21:24:27.058 INFO  Extracting done! 
+21:24:27.059 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:24:27.065 INFO  Extracting done! 
+21:24:27.069 INFO  Extracting done! 
+21:24:33.675 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.675 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.676 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.688 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.688 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.688 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.689 INFO  Extracting done! 
+21:24:33.694 INFO  Extracting done! 
+21:24:33.695 ERROR Extract failed! 
+21:24:33.695 INFO  Extracting done! 
+21:24:33.695 ERROR Extract failed! 
+21:24:33.696 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:24:33.698 INFO  Extracting done! 
+21:24:33.698 ERROR Extract failed! 
+21:24:33.699 INFO  Extracting done! 
+21:24:33.699 ERROR Extract failed! 
+21:24:33.699 INFO  Extracting done! 
+21:24:33.699 ERROR Extract failed! 
+21:24:33.699 INFO  Some files are extracted: 
+21:24:33.701 INFO  Extracting done! 
+21:24:33.701 ERROR Extract failed! 
+21:24:33.702 ERROR Extract failed! 
+21:24:33.703 INFO  Some files are extracted: 
+21:24:33.709 ERROR Extract failed! 
+21:24:45.086 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.086 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.086 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.105 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.105 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.105 INFO  Extracting done! 
+21:24:45.108 INFO  Extracting done! 
+21:24:45.111 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.114 INFO  Extracting done! 
+21:24:45.117 INFO  Extracting done! 
+21:24:45.118 INFO  Extracting done! 
+21:24:45.121 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:24:45.130 INFO  Extracting done! 
+21:24:45.132 INFO  Some files are extracted: 
+21:24:45.135 INFO  Extracting done! 
+21:24:45.141 ERROR Extract failed! 
+21:25:33.042 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.045 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.045 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.045 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.046 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.062 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.062 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.063 INFO  Extracting done! 
+21:25:33.070 INFO  Extracting done! 
+21:25:33.074 INFO  Extracting done! 
+21:25:33.077 INFO  Extracting done! 
+21:25:33.080 INFO  Extracting done! 
+21:25:33.086 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.102 INFO  Extracting done! 
+21:25:33.104 INFO  Extracting done! 
+21:25:33.107 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:25:33.113 INFO  Extracting done! 
+21:25:33.114 INFO  Extracting done! 
+21:25:40.862 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.865 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.865 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.866 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.876 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.877 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.877 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.878 INFO  Extracting done! 
+21:25:40.882 INFO  Extracting done! 
+21:25:40.886 INFO  Extracting done! 
+21:25:40.898 INFO  Extracting done! 
+21:25:40.905 INFO  Extracting done! 
+21:25:40.908 INFO  Extracting done! 
+21:25:40.912 INFO  Extracting done! 
+21:25:40.930 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:25:40.930 INFO  Extracting done! 
+21:25:45.934 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.934 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.934 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.935 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.939 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.940 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.940 INFO  Extracting done! 
+21:25:45.947 INFO  Extracting done! 
+21:25:45.952 INFO  Extracting done! 
+21:25:45.956 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.967 INFO  Extracting done! 
+21:25:45.973 INFO  Extracting done! 
+21:25:45.977 INFO  Extracting done! 
+21:25:45.980 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:25:45.994 INFO  Extracting done! 
+21:25:46.002 INFO  Extracting done! 
+21:26:37.778 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.780 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.780 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.780 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.780 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.780 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.781 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.781 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.781 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.781 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.782 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.782 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.794 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.794 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.794 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:26:37.795 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.795 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.795 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:26:37.795 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.795 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.796 INFO  Extracting done! 
+21:26:37.801 INFO  Extracting done! 
+21:26:37.803 INFO  Extracting done! 
+21:26:37.806 INFO  Extracting done! 
+21:26:37.807 INFO  Extracting done! 
+21:26:37.808 INFO  Extracting done! 
+21:26:37.811 INFO  Extracting done! 
+21:26:37.812 INFO  Extracting done! 
+21:26:37.814 INFO  Extracting done! 
+21:26:37.818 INFO  Extracting done! 
+21:26:37.820 INFO  Extracting done! 
+21:26:37.821 INFO  Extracting done! 
+21:26:37.822 INFO  Extracting done! 
+21:26:37.823 INFO  Extracting done! 
+21:26:37.824 INFO  Extracting done! 
+21:26:37.826 INFO  Extracting done! 
+21:26:37.827 INFO  Extracting done! 
+21:26:37.828 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.852 INFO  Extracting done! 
+21:26:37.853 INFO  Extracting done! 
+21:26:37.855 INFO  Extracting done! 
+21:26:37.856 INFO  Extracting done! 
+21:26:37.858 INFO  Extracting done! 
+21:26:37.859 INFO  Extracting done! 
+21:26:37.861 INFO  Extracting done! 
+21:26:37.863 INFO  Extracting done! 
+21:26:37.865 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:26:37.883 INFO  Extracting done! 
+21:26:37.886 INFO  Extracting done! 
+21:31:57.231 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.232 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.233 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.233 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.233 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.233 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.233 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.233 INFO  Some files are extracted: 
+21:31:57.234 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.234 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.234 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.234 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.235 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.235 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.235 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.235 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.246 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.246 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.246 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.247 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.247 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.247 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.247 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.247 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.248 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.248 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.248 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:31:57.248 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.248 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.248 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:31:57.249 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.249 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.249 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.249 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.250 INFO  Extracting done! 
+21:31:57.255 INFO  Extracting done! 
+21:31:57.256 INFO  Extracting done! 
+21:31:57.259 INFO  Extracting done! 
+21:31:57.261 INFO  Extracting done! 
+21:31:57.263 INFO  Extracting done! 
+21:31:57.265 INFO  Extracting done! 
+21:31:57.266 INFO  Extracting done! 
+21:31:57.267 ERROR Extract failed! 
+21:31:57.267 INFO  Extracting done! 
+21:31:57.268 INFO  Extracting done! 
+21:31:57.269 INFO  Extracting done! 
+21:31:57.271 INFO  Extracting done! 
+21:31:57.272 INFO  Extracting done! 
+21:31:57.274 INFO  Extracting done! 
+21:31:57.278 INFO  Extracting done! 
+21:31:57.281 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.310 INFO  Extracting done! 
+21:31:57.312 INFO  Extracting done! 
+21:31:57.314 INFO  Extracting done! 
+21:31:57.316 INFO  Extracting done! 
+21:31:57.317 INFO  Extracting done! 
+21:31:57.318 INFO  Extracting done! 
+21:31:57.319 INFO  Extracting done! 
+21:31:57.321 INFO  Extracting done! 
+21:31:57.324 INFO  Extracting done! 
+21:31:57.326 INFO  Extracting done! 
+21:31:57.327 INFO  Extracting done! 
+21:31:57.328 INFO  Extracting done! 
+21:31:57.329 INFO  Extracting done! 
+21:31:57.330 INFO  Extracting done! 
+21:31:57.331 INFO  Extracting done! 
+21:31:57.332 INFO  Extracting done! 
+21:31:57.333 INFO  Extracting done! 
+21:31:57.334 INFO  Extracting done! 
+21:31:57.336 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:31:57.365 INFO  Extracting done! 
+21:31:57.369 INFO  Extracting done! 
+21:41:49.004 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.006 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.006 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.006 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.007 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.007 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.007 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.007 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.007 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.007 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.007 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.007 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.008 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.008 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.008 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.008 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.008 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.008 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.008 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.020 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.020 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.021 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.021 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.021 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.021 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.022 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.022 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.022 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.022 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.023 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:41:49.023 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.023 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.023 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:41:49.023 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.024 INFO  Extracting done! 
+21:41:49.028 INFO  Extracting done! 
+21:41:49.029 INFO  Extracting done! 
+21:41:49.031 INFO  Extracting done! 
+21:41:49.034 INFO  Extracting done! 
+21:41:49.035 INFO  Extracting done! 
+21:41:49.037 INFO  Extracting done! 
+21:41:49.038 INFO  Extracting done! 
+21:41:49.039 INFO  Extracting done! 
+21:41:49.040 INFO  Extracting done! 
+21:41:49.040 INFO  Extracting done! 
+21:41:49.041 INFO  Extracting done! 
+21:41:49.042 INFO  Extracting done! 
+21:41:49.043 INFO  Extracting done! 
+21:41:49.044 INFO  Extracting done! 
+21:41:49.044 INFO  Extracting done! 
+21:41:49.045 INFO  Extracting done! 
+21:41:49.046 INFO  Extracting done! 
+21:41:49.047 INFO  Extracting done! 
+21:41:49.049 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.070 INFO  Extracting done! 
+21:41:49.071 INFO  Extracting done! 
+21:41:49.072 INFO  Extracting done! 
+21:41:49.072 INFO  Extracting done! 
+21:41:49.073 INFO  Extracting done! 
+21:41:49.074 INFO  Extracting done! 
+21:41:49.074 INFO  Extracting done! 
+21:41:49.075 INFO  Extracting done! 
+21:41:49.076 INFO  Extracting done! 
+21:41:49.076 INFO  Extracting done! 
+21:41:49.077 INFO  Extracting done! 
+21:41:49.078 INFO  Extracting done! 
+21:41:49.078 INFO  Extracting done! 
+21:41:49.079 INFO  Extracting done! 
+21:41:49.084 INFO  Extracting done! 
+21:41:49.086 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:41:49.110 INFO  Extracting done! 
+21:41:49.114 INFO  Extracting done! 
+21:43:09.702 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.705 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.705 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.705 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.706 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.706 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.706 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.706 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.706 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:43:09.707 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.707 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.707 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:43:09.709 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:43:09.713 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:43:09.714 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:43:09.714 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:43:09.714 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:43:09.721 INFO  Extracting done! 
+21:43:09.722 ERROR Extract failed! 
+21:43:09.722 INFO  Extracting done! 
+21:43:09.722 ERROR Extract failed! 
+21:43:09.722 INFO  Extracting done! 
+21:43:09.722 ERROR Extract failed! 
+21:43:09.723 INFO  Extracting done! 
+21:43:09.723 ERROR Extract failed! 
+21:43:09.723 INFO  Extracting done! 
+21:43:09.723 ERROR Extract failed! 
+21:43:09.723 INFO  Extracting done! 
+21:43:09.723 ERROR Extract failed! 
+21:43:09.723 INFO  Extracting done! 
+21:43:09.723 ERROR Extract failed! 
+21:43:09.723 INFO  Extracting done! 
+21:43:09.724 ERROR Extract failed! 
+21:43:09.724 INFO  Extracting done! 
+21:43:09.724 ERROR Extract failed! 
+21:43:09.724 INFO  Extracting done! 
+21:43:09.724 ERROR Extract failed! 
+21:43:09.724 INFO  Extracting done! 
+21:43:09.724 ERROR Extract failed! 
+21:43:09.724 INFO  Extracting done! 
+21:43:09.724 ERROR Extract failed! 
+21:43:09.725 INFO  Extracting done! 
+21:43:09.726 ERROR Extract failed! 
+21:43:09.726 INFO  Extracting done! 
+21:43:09.726 ERROR Extract failed! 
+21:43:09.726 INFO  Extracting done! 
+21:43:09.726 ERROR Extract failed! 
+21:43:09.726 INFO  Extracting done! 
+21:43:09.726 ERROR Extract failed! 
+21:43:09.726 INFO  Extracting done! 
+21:43:09.726 ERROR Extract failed! 
+21:47:36.779 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.781 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.781 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.781 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.782 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.782 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.782 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.782 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.783 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.783 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.783 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.783 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.784 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.784 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.784 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.784 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.784 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.784 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.784 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.785 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.785 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.785 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.785 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.826 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:47:36.826 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.827 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:47:36.827 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.827 INFO  Extracting done! 
+21:47:36.831 INFO  Extracting done! 
+21:47:36.831 ERROR Extract failed! 
+21:47:36.832 INFO  Extracting done! 
+21:47:36.835 INFO  Extracting done! 
+21:47:36.841 INFO  Extracting done! 
+21:47:36.842 INFO  Extracting done! 
+21:47:36.845 INFO  Extracting done! 
+21:47:36.846 INFO  Extracting done! 
+21:47:36.849 INFO  Extracting done! 
+21:47:36.849 INFO  Extracting done! 
+21:47:36.850 INFO  Extracting done! 
+21:47:36.851 INFO  Extracting done! 
+21:47:36.854 INFO  Extracting done! 
+21:47:36.856 INFO  Extracting done! 
+21:47:36.857 INFO  Extracting done! 
+21:47:36.858 INFO  Extracting done! 
+21:47:36.859 INFO  Extracting done! 
+21:47:36.859 INFO  Extracting done! 
+21:47:36.860 INFO  Extracting done! 
+21:47:36.862 INFO  Extracting done! 
+21:47:36.863 INFO  Extracting done! 
+21:47:36.863 INFO  Extracting done! 
+21:47:36.864 INFO  Extracting done! 
+21:47:36.865 INFO  Extracting done! 
+21:47:36.866 INFO  Extracting done! 
+21:47:36.868 INFO  Extracting done! 
+21:47:36.872 INFO  Extracting done! 
+21:47:36.874 INFO  Extracting done! 
+21:47:36.876 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.876 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.906 INFO  Extracting done! 
+21:47:36.908 INFO  Extracting done! 
+21:47:36.910 INFO  Extracting done! 
+21:47:36.912 INFO  Extracting done! 
+21:47:36.919 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.920 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:47:36.941 INFO  Extracting done! 
+21:47:36.942 INFO  Extracting done! 
+21:47:36.948 INFO  Extracting done! 
+21:47:36.949 INFO  Extracting done! 
+21:48:37.507 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.533 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.534 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.534 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.535 INFO  Extracting done! 
+21:48:37.542 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.543 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:48:37.548 INFO  Extracting done! 
+21:48:37.549 ERROR Extract failed! 
+21:48:37.549 INFO  Extracting done! 
+21:48:37.550 ERROR Extract failed! 
+21:48:37.550 INFO  Extracting done! 
+21:48:37.550 ERROR Extract failed! 
+21:48:37.550 INFO  Some files are extracted: 
+21:48:37.553 INFO  Extracting done! 
+21:48:37.554 ERROR Extract failed! 
+21:48:37.554 INFO  Extracting done! 
+21:48:37.554 ERROR Extract failed! 
+21:48:37.555 INFO  Some files are extracted: 
+21:48:37.556 ERROR Extract failed! 
+21:48:37.560 ERROR Extract failed! 
+21:48:50.200 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.200 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.200 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.200 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.201 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.201 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.201 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.201 INFO  Extracting done! 
+21:48:50.204 INFO  Extracting done! 
+21:48:50.207 INFO  Extracting done! 
+21:48:50.209 INFO  Extracting done! 
+21:48:50.212 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:48:50.217 INFO  Extracting done! 
+21:48:50.219 INFO  Extracting done! 
+21:48:50.222 INFO  Extracting done! 
+21:48:50.237 INFO  Some files are extracted: 
+21:48:50.237 INFO  Extracting done! 
+21:48:50.242 ERROR Extract failed! 
+21:48:59.418 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.418 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.474 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.474 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.474 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.474 INFO  Extracting done! 
+21:48:59.479 INFO  Extracting done! 
+21:48:59.483 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.483 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.488 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:48:59.488 INFO  Extracting done! 
+21:48:59.490 INFO  Extracting done! 
+21:48:59.492 INFO  Extracting done! 
+21:48:59.499 INFO  Some files are extracted: 
+21:48:59.499 INFO  Extracting done! 
+21:48:59.501 INFO  Extracting done! 
+21:48:59.501 INFO  Extracting done! 
+21:48:59.507 ERROR Extract failed! 
+21:50:20.052 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.077 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.077 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.078 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.078 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.078 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.078 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.079 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.079 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.079 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.079 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.079 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.079 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.080 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.080 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.080 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.080 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.080 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.080 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.080 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.081 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.081 INFO  Some files are extracted:,YSE300_20190710093033.data 
+21:50:20.081 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.082 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.082 INFO  Some files are extracted:,YSE301_20190710093055.data 
+21:50:20.082 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.083 INFO  Extracting done! 
+21:50:20.087 INFO  Extracting done! 
+21:50:20.093 INFO  Extracting done! 
+21:50:20.098 INFO  Extracting done! 
+21:50:20.102 INFO  Extracting done! 
+21:50:20.108 INFO  Extracting done! 
+21:50:20.110 INFO  Extracting done! 
+21:50:20.114 INFO  Extracting done! 
+21:50:20.115 INFO  Extracting done! 
+21:50:20.117 INFO  Extracting done! 
+21:50:20.119 INFO  Extracting done! 
+21:50:20.123 INFO  Extracting done! 
+21:50:20.125 INFO  Extracting done! 
+21:50:20.128 INFO  Extracting done! 
+21:50:20.131 INFO  Extracting done! 
+21:50:20.133 INFO  Extracting done! 
+21:50:20.136 INFO  Extracting done! 
+21:50:20.138 INFO  Extracting done! 
+21:50:20.140 INFO  Extracting done! 
+21:50:20.142 INFO  Extracting done! 
+21:50:20.144 INFO  Extracting done! 
+21:50:20.146 INFO  Extracting done! 
+21:50:20.147 INFO  Extracting done! 
+21:50:20.194 INFO  Extracting done! 
+21:50:20.197 INFO  Extracting done! 
+21:50:20.201 INFO  Some files are extracted:,YSE302_20190710093066.data 
+21:50:20.241 INFO  Extracting done! 
+21:50:20.249 INFO  Extracting done! 

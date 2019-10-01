@@ -1,0 +1,13 @@
+/*
+ * Myanmar Sans Pro (Myanmar) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Myanmar Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/MyanmarSansPro-Regular.eot);
+  src: url(../font/MyanmarSansPro-Regular.eot?#iefix) format('embedded-opentype'),
+       url(../font/MyanmarSansPro-Regular.woff2) format('woff2'),
+       url(../font/MyanmarSansPro-Regular.woff) format('woff'),
+       url(../font/MyanmarSansPro-Regular.ttf) format('truetype');
+}

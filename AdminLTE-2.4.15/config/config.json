@@ -1,0 +1,18 @@
+{
+	"fileserver" : "\\\\10.1.8.4\\FileServer\\26 Staff Development\\7. DAT Contest\\1. Multiboard_Contest\\ysx\\",
+	"zippwd": "pbhtk",
+	"extractdir" : ".//FileData//",
+	"server" : "localhost",
+	"listenport" : "8000",
+	"yse_column" : [3,6,17,21,22,13,14,25,11,9],
+	"yse_column_eng" : ["Company","Highest Price","Lowest Price","No of Customer","Total Sell Qty","Total Buy Qty","Turnover","Trade Amount","Next Day Baseprice","Opening Price","Current Price","Difference"],
+	"yse_column_myan" : ["အမည်","အမြင့်ဆုံးဈေး","အနိမ့်ဆုံးဈေး","အရောင်းအဝယ် လုပ်သည့်လူဦးရေ","ရောင်းချသည့် ရှယ်ယာ အရေအတွက်","ဝယ်ယူသည့် ရှယ်ယာအရေအတွက်","အရောင်းအဝယ် ဖြစ်သည့်ရှယ်ယာ အရေအတွက်","အရောင်းအဝယ် ဖြစ်သည့်ပမာဏ","နောက်နေ့အတွက် အခြေခံစျေးနှုန်း","အဖွင့်ဈေး","လက်ရှိဈေး","ခြားနားချက်"],
+	"yse300_column_length" : 16,
+	"yse301_column_length" : 8,
+	"yse302_column_length" : 3,
+    "companyList":[{"company":"FMI","code":"000010000","img":"fmi.png","color":"#18bfe8"},
+	{"company":"MTSH","code":"000020000","img":"MTSH.png","color":"#821b5f"},
+	{"company":"MCB","code":"000030000","img":"MCB.png","color":"#7b1f0a"},
+	{"company":"FPB","code":"000040000","img":"FPB.png","color":"#0e2954"},
+    {"company":"TMH","code":"000050000","img":"TMH.png","color":"#1d1c10d1"}]
+}
